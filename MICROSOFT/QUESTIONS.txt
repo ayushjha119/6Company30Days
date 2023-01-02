@@ -1,0 +1,18 @@
+Challenge Company 1 : Microsoft 
+
+
+https://leetcode.com/problems/evaluate-reverse-polish-notation/
+https://leetcode.com/problems/combination-sum-iii/
+https://leetcode.com/problems/bulls-and-cows/
+https://leetcode.com/problems/rotate-function/
+https://leetcode.com/problems/largest-divisible-subset/
+https://leetcode.com/problems/perfect-rectangle/
+https://leetcode.com/problems/course-schedule/
+https://leetcode.com/problems/most-profitable-path-in-a-tree/
+https://leetcode.com/problems/number-of-pairs-satisfying-inequality/
+https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+https://leetcode.com/problems/longest-happy-prefix/
+https://leetcode.com/problems/airplane-seat-assignment-probability/
+https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/
+https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
